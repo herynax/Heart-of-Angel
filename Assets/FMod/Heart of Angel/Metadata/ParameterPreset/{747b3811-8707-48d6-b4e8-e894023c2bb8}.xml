@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{747b3811-8707-48d6-b4e8-e894023c2bb8}">
+		<property name="name">
+			<value>is Crouch</value>
+		</property>
+		<relationship name="folder">
+			<destination>{953408ce-71ce-40a0-aa32-33268185bdab}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{7cee746c-694f-499a-94a3-a2bc1e2edd12}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{7cee746c-694f-499a-94a3-a2bc1e2edd12}">
+		<property name="parameterType">
+			<value>1</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

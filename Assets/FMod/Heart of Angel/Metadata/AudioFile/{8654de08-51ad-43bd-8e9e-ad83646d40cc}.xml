@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{8654de08-51ad-43bd-8e9e-ad83646d40cc}">
+		<property name="assetPath">
+			<value>Footsteps_Gravel_Run_09.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.41512500000000002</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{371d83da-487b-458a-869c-d8f414b27e60}</destination>
+		</relationship>
+	</object>
+</objects>

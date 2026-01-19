@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{d009275b-f6f9-4721-b1de-6fe5bfb35317}">
+		<property name="assetPath">
+			<value>SFX_BloodFootsteps3.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.31730158730158731</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{371d83da-487b-458a-869c-d8f414b27e60}</destination>
+		</relationship>
+	</object>
+</objects>
